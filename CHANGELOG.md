@@ -36,6 +36,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Official initial release  
 - First stable deployment script
+	- Confirmed via test deployments of:
+		- Amazon Linux
+		- Ubuntu
+		- Windows Server 2025
 
 ---
 
