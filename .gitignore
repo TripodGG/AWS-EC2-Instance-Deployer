@@ -1,0 +1,38 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Python / virtualenv (if you add helpers later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / frontend (if you add a UI or docs site later)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Shell history
+*.history
+
+# Sensitive keys & certs (belt-and-suspenders)
+*.pem
+*.ppk
+*.key
+*.crt
+*.csr
+
+# Environment / secrets
+.env
+.env.*
