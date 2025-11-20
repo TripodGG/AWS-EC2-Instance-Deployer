@@ -107,7 +107,7 @@ Designed to be reusable across **multiple AWS accounts** and **multiple environm
 ## Prerequisites
 
 - **AWS CLI v2**
-  - Installed and available in `PATH`
+  - Installed and available
   - Configured with at least one profile _or_ default credentials
 
 - **Bash**
