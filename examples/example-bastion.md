@@ -22,7 +22,8 @@ Deploy a *minimal-cost* Amazon Linux bastion instance in:
 ### 1. Run the script
 
 ```bash
-./ec2-instance-deployer.sh```
+./ec2-instance-deployer.sh
+```
 
 ### 2. Choose AWS Profile
 
