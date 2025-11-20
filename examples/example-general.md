@@ -19,14 +19,16 @@ Deploy a small, inexpensive Ubuntu server suitable for:
 ### 1. Run the script
 
 ```bash
-./ec2-instance-deployer.sh```
+./ec2-instance-deployer.sh
+```
 
 ### 2. Choose AWS Profile
 
 ```bash
 Available AWS profiles:
   1) default
-Select profile by number [1]:```
+Select profile by number [1]:
+```
 Select ``1`` or press Enter.
 
 ### 3. Choose Region
@@ -37,6 +39,7 @@ Available North American regions:
   2) us-east-2
   3) us-west-1
   4) us-west-2
-Select region by number [2]:```
+Select region by number [2]:
+```
 Choose ``us-east-2``.
 
