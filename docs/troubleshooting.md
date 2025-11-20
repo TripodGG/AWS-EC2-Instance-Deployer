@@ -10,7 +10,8 @@ Common issues and how to resolve them when using `ec2-instance-deployer.sh`.
 Run:
 
 ```bash
-aws configure```
+aws configure
+```
 Or ensure correct profile selection.
 
 ## Region Issues
@@ -62,7 +63,8 @@ Checklist:
 Fix:
 Ensure private key permissions:
 ```bash
-chmod 600 ~/.aws/keypairs/<key>.pem```
+chmod 600 ~/.aws/keypairs/<key>.pem
+```
 
 Use correct username:
 - Amazon Linux: ``ec2-user``
