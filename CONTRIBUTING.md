@@ -15,14 +15,16 @@ Clone your fork:
 
 ```bash
 git clone https://github.com/<your-username>/ec2-instance-deployer.git
-cd ec2-instance-deployer```
+cd ec2-instance-deployer
+```
 
 ### 2. Create a Feature Branch
 
 Use a descriptive name:
 
 ```bash
-git checkout -b feature/add-windows-2025-support```
+git checkout -b feature/add-windows-2025-support
+```
 
 ### 3. Make Your Changes
 Before submitting code:
@@ -41,12 +43,14 @@ Before submitting code:
 Use clear commit messages:
 
 ```bash
-git commit -m "Add support for Ubuntu 26.04 AMIs"```
+git commit -m "Add support for Ubuntu 26.04 AMIs"
+```
 
 ### 5. Push and Open a Pull Request
 
 ```bash
-git push origin feature/add-windows-2025-support```
+git push origin feature/add-windows-2025-support
+```
 
 Then open a Pull Request (PR) on GitHub.
 

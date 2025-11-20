@@ -130,3 +130,4 @@ If you don’t already have IAM permissions for these actions, you may want to r
 git clone https://github.com/<your-org-or-user>/ec2-instance-deployer.git
 cd ec2-instance-deployer
 chmod +x ec2-instance-deployer.sh
+```

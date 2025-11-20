@@ -60,4 +60,3 @@ To minimize risk:
 ---
 
 Thank you for helping keep the project secure.
-
